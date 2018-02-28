@@ -1,0 +1,17 @@
+Git Cimmands 
+####################### Clone ##############
+clone: git clone -b my-branch https://git@github.com/username/myproject.git
+################# Add Files ##################
+git add -A stages All
+git add . stages new and modified, without deleted
+git add -u stages modified and deleted, without new
+################# Apply stach################
+git stash apply
+################ Switch Branch #############
+git checkout branchName
+################ Add Local Branch to Server#########
+git init
+--git add README.md
+git commit -m "first commit"
+git remote add origin RepositoryURL
+git push -u origin master
