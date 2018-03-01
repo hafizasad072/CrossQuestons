@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BinarySort.cs" />
     <Compile Include="FindPairWithSumOfArray .cs" />
     <Compile Include="TwinString.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

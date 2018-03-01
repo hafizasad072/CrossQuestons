@@ -1,3 +1,9 @@
 E:\Programing Question\TwinString\TwinString\obj\Debug\CrossQuestions.csprojResolveAssemblyReference.cache
 E:\Programing Question\TwinString\TwinString\obj\Debug\TwinString.exe
 E:\Programing Question\TwinString\TwinString\obj\Debug\TwinString.pdb
+E:\Programing Question\CrossQuestion\CrossQuestion\bin\Debug\TwinString.exe.config
+E:\Programing Question\CrossQuestion\CrossQuestion\obj\Debug\TwinString.exe
+E:\Programing Question\CrossQuestion\CrossQuestion\obj\Debug\TwinString.pdb
+E:\Programing Question\CrossQuestion\CrossQuestion\obj\Debug\CrossQuestions.csprojResolveAssemblyReference.cache
+E:\Programing Question\CrossQuestion\CrossQuestion\bin\Debug\TwinString.exe
+E:\Programing Question\CrossQuestion\CrossQuestion\bin\Debug\TwinString.pdb
